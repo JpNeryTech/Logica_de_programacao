@@ -1,3 +1,5 @@
+const { prompt, cor } = require('./parte5')
+
 var  n1 = 5
 var peso1= 1
 var  n2= 3 
@@ -22,3 +24,4 @@ if ((n1,n2,n3 >10 || n1,n2,n3 <0)  ) {
 else{ 
     console.log(`A média ponderada dos números ${n1}, ${n2}, e ${n3} é: ` ,media);
 }
+prompt(Digite, uma, cor(amarelo, verde, ou, vermelho));
