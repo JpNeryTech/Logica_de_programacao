@@ -2,7 +2,7 @@
 //   console.log(i)
 //}
 
-const PromptSync = require("prompt-sync");
+
 
 /*let numInicial = 1
 let numFinal = 100
